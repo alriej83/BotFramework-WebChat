@@ -1,0 +1,3 @@
+# CI replay marker for typecheck/tsd
+feature_branch: replay-de704a1e
+workflow: .github/workflows/pull-request-validation.yml
